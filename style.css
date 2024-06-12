@@ -7,3 +7,17 @@
         background-color: var(--cor-de-fundo);
         color: var(--texto);
         }
+
+        footer {
+            display: flex;
+            align-items: center;
+            justify-content: space-around;
+        }
+        
+        body span.kkk {
+            color: var(--cor-4);
+        }
+        
+        body span.hhh {
+            color: var(--rea);
+        }
