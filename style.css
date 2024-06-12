@@ -1,6 +1,7 @@
 :root {
     --texto: #ffffff;
     --rea: #ffffff;
+background-color: #039800;
 }
 
 h1 {
@@ -12,12 +13,12 @@ body {
     font-family: "Archivo Black", sans-serif;
     font-weight: 400;
     font-style: normal;
+    background-color: #381500;
 }
 
 header {
     display: flex;
     align-items: center;
-    background-color: #039800;
     justify-content: space-around;
 }
 
@@ -54,6 +55,7 @@ body span.hhh {
     padding: revert;
     margin-top: 5%;
     grid-template-columns: 45% 10% 45%;
+    background-color: #1C3405;
 }
 
 .Shrek {
