@@ -1,7 +1,6 @@
 :root {
     --texto: #ffffff;
     --rea: #ffffff;
-background-color: #039800;
     }
     
     h1 {
@@ -14,13 +13,14 @@ background-color: #039800;
             font-weight: 400;
             font-style: normal;
             background-color: #381500;
-}
-
-header {
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-}
+            }
+            
+            header {
+                display: flex;
+                align-items: center;
+                justify-content: space-around;
+            background-color: #039800;
+                }
 
 footer {
     display: flex;
