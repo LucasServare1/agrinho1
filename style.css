@@ -38,9 +38,7 @@ body span.hhh {
 
 .Hotel-um {
     width: 40%;
-    border-radius: 75px;
-    padding-right: 20px;
-}
+    
 
 .Restaurante-qack {
     width: 40%;
@@ -101,7 +99,7 @@ body span.hhh {
 
 .esp {
     display: flex;
-    background-color: gray;
+    background-color: rgb(255, 255, 255);
     border-radius: 71px;
 }
 
