@@ -12,7 +12,6 @@ body {
     font-family: "Archivo Black", sans-serif;
     font-weight: 400;
     font-style: normal;
-
 }
 
 header {
@@ -21,6 +20,7 @@ header {
     justify-content: space-around;
     background-color: #039800;
     text-align: center;
+    margin: 0px
 }
 
 footer {
