@@ -62,7 +62,7 @@ body span.hhh {
     margin-top: 75px;
     border-radius: 78px;
     display: flex;
-    background-color: gray;
+    background-color: rgb(255, 255, 255);
     padding: revert;
     border: 7px solid pink;
 
@@ -101,7 +101,7 @@ body span.hhh {
 
 .esp {
     display: flex;
-    background-color: rgb(255, 255, 255);
+    background-color: gray;
     border-radius: 71px;
 }
 
