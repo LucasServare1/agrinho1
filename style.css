@@ -37,3 +37,9 @@ body span.hhh {
     background-color: #1C3405;
     margin-top: -30px;
 }
+
+.minecraft{
+    width: 40%;
+    border-radius: 75px;
+    padding-right: 20px
+}
