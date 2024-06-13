@@ -40,6 +40,6 @@ body span.hhh {
 
 .minecraft{
     width: 40%;
-    border-radius: 75px;
-    padding-right: 20px
+    position: relative; top: 20px;
+    
 }
