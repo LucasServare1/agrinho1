@@ -40,6 +40,6 @@ body span.hhh {
 
 .minecraft{
     width: 5%;
-    position: relative; descent-override: 200px;
+    position: relative; top: 50px;
     
 }
