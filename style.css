@@ -52,5 +52,7 @@ body span.hhh {
 }
 
 .Ferti { 
-
+    width: 40%;
+    border-radius: 75px;
+    padding-right: 20px
 }
