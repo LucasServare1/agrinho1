@@ -41,7 +41,12 @@ body span.hhh {
 
 }
 
-.minecraft {
+.af { 
+    text-align: right;
+
+}
+
+.minecraft { 
     width: 3%;
     position: relative;
     bottom: 223px;
