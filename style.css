@@ -8,6 +8,11 @@ h1 {
     color: var(--texto);
 }
 
+h4 {
+
+
+}
+
 body {
     font-family: "Archivo Black", sans-serif;
     font-weight: 400;
