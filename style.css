@@ -21,7 +21,7 @@ header {
     justify-content: space-around;
     background-color: #039800;
     text-align: center;
-    z-index: 999;
+   
 
 }
 
@@ -38,11 +38,13 @@ body span.hhh {
 .aff {
     background-color: #1C3405;
     margin-top: -30px;
+    position: absolute;
 }
 
 .minecraft{
     width: 5%;
     position: relative; bottom: 298px;
     position: relative; left: 460px;
-    background-position: 20px 20px;
+    position: relative;
+
 }
