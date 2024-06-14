@@ -52,14 +52,6 @@ body span.hhh {
 }
 
 .Ferti { 
-    width: 15%;
+    width: 55%;
    
-}
-
-.introdução {
-    border-radius: 78px;
-    display: grid;
-    padding: revert;
-    margin-top: 5%;
-    grid-template-columns: 45% 10% 45%;
 }
