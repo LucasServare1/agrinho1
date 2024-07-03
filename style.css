@@ -19,7 +19,7 @@ body {
 header {
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: center;
     background-color: #039800;
     text-align: center;
 
@@ -43,7 +43,7 @@ body span.hhh {
 }
 
 .minecraft { 
-    width: 13%;
+    width: 10%;
 }
 
 .Ferti { 
@@ -55,4 +55,10 @@ body span.hhh {
     .minecraft { 
         width: 3%;
     }    
+
+
+}
+
+@media screen and (min-width: 1728px){
+/* pc */
 }
