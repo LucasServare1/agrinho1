@@ -64,6 +64,11 @@ body span.hhh {
 
 }
 
+.algo2{
+    display: flex;
+    grid-template-columns: 33% 33% 33%;
+
+}
 
 @media screen and (min-width: 1024px) {
     .minecraft {
