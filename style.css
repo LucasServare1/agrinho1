@@ -39,26 +39,26 @@ body span.hhh {
 .aff {
     background-color: #1C3405;
     margin-top: -30px;
-    --texto: #cf1313;
+    color: aqua
 }
 
-.minecraft { 
+.minecraft {
     width: 10%;
 }
 
-.Ferti { 
+.Ferti {
     width: 15%;
-   
+
 }
 
-@media screen and (min-width: 1024px){
-    .minecraft { 
+@media screen and (min-width: 1024px) {
+    .minecraft {
         width: 3%;
-    }    
+    }
 
 
 }
 
-@media screen and (min-width: 1728px){
-/* pc */
+@media screen and (min-width: 1728px) {
+    /* pc */
 }
