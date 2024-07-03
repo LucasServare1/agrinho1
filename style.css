@@ -58,6 +58,11 @@ body span.hhh {
     color:#cf1313
 }
 
+.algo{
+    display: flex;
+    grid-template-columns: 33% 33% 33%;
+
+}
 
 
 @media screen and (min-width: 1024px) {
