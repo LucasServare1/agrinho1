@@ -51,6 +51,12 @@ body span.hhh {
 
 }
 
+.texto{
+    color:#cf1313
+}
+
+
+
 @media screen and (min-width: 1024px) {
     .minecraft {
         width: 3%;
